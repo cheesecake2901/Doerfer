@@ -1,0 +1,15 @@
+DoerferGameConfigurationv1
+1. Spieleranzahl, 2. Anzahl der Karten auf dem Stapel 3-8. <BIOM> <Wahrwscheinlichkeit> <Gewichtung> 10. Anzahl der vorplazierten Karten 11. Die nächsten Zeilen beinhalten die vorplatzieren Karten und sind nach dem Format <SPIELERID> <REIHE> <SPALTE> <DREHUNG> <BIOM>,<BIOM>,<BIOM>,<BIOM>,<BIOM>,<BIOM>. 
+2
+16
+HOUSES 50 12
+PLAINS 80 11 
+FOREST 40 11
+FIELDS 20 11
+WATER 15 3 
+TRAINTRACKS 10 3
+2
+1 4 5 0 WATER PLAINS FOREST FOREST WATER FOREST
+2 1 4 2 FOREST PLAINS FOREST FOREST WATER FOREST
+3 2 1 0 WATER PLAINS FOREST FOREST WATER FOREST
+4 2 6 2 FOREST PLAINS FOREST FOREST WATER FOREST

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg width="100" height="86.6025403784" viewBox="0 0 100 86.6025403784" xmlns="http://www.w3.org/2000/svg">
+	<polygon points="37.5,21.6506 62.5,21.6506 75,43.301235094611 62.5,64.9518701892219 37.5,64.9518701892219 25,43.301235094611" fill="#ac917b" />
+	<g transform="translate(42,35) scale(0.3)">
+		<path d="M32.405 0a.728.728 0 0 0-.728.729v3.15H21.5V.729a.728.728 0 1 0-1.455 0v46.546a.728.728 0 0 0 1.455 0v-3.152h10.177v3.152a.728.728 0 0 0 1.455 0V.729A.728.728 0 0 0 32.405 0zm-.728 19.4H21.5v-6.3h10.177zm0 7.757H21.5v-6.3h10.177z M21.5 28.607h10.177v6.3H21.5z M31.677 5.334v6.3H21.5v-6.3z M21.5 42.668v-6.3h10.177v6.305z"/>
+	</g>
+</svg>

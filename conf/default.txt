@@ -1,0 +1,1 @@
+-c DoerferGameConfigurationv1.txt -d 500 -g -pt HUMAN RANDOM_AI RANDOM_AI RANDOM_AI -pc RED GREEN ORANGE BLUE -pn Human Monkey Dolphin Parrot

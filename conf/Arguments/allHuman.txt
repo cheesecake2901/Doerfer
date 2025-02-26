@@ -1,0 +1,1 @@
+-c DoerferGameConfigurationv1.txt -d 50 -g -pt HUMAN HUMAN HUMAN HUMAN -pc RED GREEN ORANGE BLUE -pn Thorsten Morten Celine Player4
